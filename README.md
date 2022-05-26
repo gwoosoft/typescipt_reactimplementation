@@ -1,2 +1,4 @@
 # typescipt_reactimplementation
-Created with CodeSandbox
+
+This program is a simple Typescript implementation on react to see how Typescript can be utilize with React. 
+
